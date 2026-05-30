@@ -1,13 +1,13 @@
 # Site settings
-title: "MESGRO - Robotics & Mechatronics Portfolio"
-description: "An open-source template for showcasing robotics and mechatronics projects with 3D models, schematics, and code"
-url: "https://aojedao.github.io"
-baseurl: "/MESGRO"
-author: "Your Name"
-email: "your.email@example.com"
-github_username: "your-github-username"
-linkedin_username: "your-linkedin"
-twitter_username: "your-twitter"
+title: "Yosuf Soliman — Mechatronics Engineer"
+description: "Portfolio showcasing robotics, autonomous drones, embedded systems, and AI control projects"
+url: "https://Yosuf-Soliman.github.io"
+baseurl: "/Portfolio"
+author: "Yosuf Soliman"
+email: "yossuf.osama@gmail.com"
+github_username: "Yosuf-Soliman"
+linkedin_username: "yossuf-osama075295326"
+twitter_username: ""
 
 # Build settings
 markdown: kramdown
@@ -65,24 +65,33 @@ project_categories:
   - name: "Mechatronics"
     slug: "mechatronics"
     description: "Integration of mechanical, electrical, and software systems"
+  - name: "Drones"
+    slug: "drones"
+    description: "Autonomous UAV systems and flight control"
+  - name: "AI & Control"
+    slug: "ai-control"
+    description: "Reinforcement learning, computer vision, and control systems"
+  - name: "Embedded Systems"
+    slug: "embedded"
+    description: "Arduino, ESP32, PLC, and low-level hardware"
+  - name: "Simulation"
+    slug: "simulation"
+    description: "MATLAB, Simulink, Gazebo, and SITL"
   - name: "Arduino"
     slug: "arduino"
     description: "Arduino-based projects and prototypes"
   - name: "3D Printing"
     slug: "3d-printing"
     description: "Custom 3D printed components and designs"
-  - name: "IoT"
-    slug: "iot"
-    description: "Internet of Things devices and applications"
 
 # 3D Model settings
 models:
   supported_formats: ["stl", "obj", "gltf", "glb"]
-  default_background: "#f0f0f0"
+  default_background: "#0D0F14"
   camera_controls: true
-  auto_rotate: false
+  auto_rotate: true
 
-# Schema settings
+# Schematic settings
 schematics:
   supported_formats: ["png", "jpg", "jpeg", "svg", "pdf"]
   zoom_enabled: true
