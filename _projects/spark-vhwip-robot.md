@@ -20,8 +20,6 @@ schematics:
     description: "Full component wiring diagram"
   - file: "/assets/images/projects/spark/pcb-3d.jpg"
     description: "Custom PCB 3D layout"
-  - file: "/assets/images/projects/spark/lqr-disturbance-inputs.jpg"
-    description: "LQR cascaded control architecture"
 
 code_files:
   - name: "Mass-Bounded Inverse Kinematics"
