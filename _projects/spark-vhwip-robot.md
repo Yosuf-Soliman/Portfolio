@@ -16,12 +16,12 @@ models:
     description: "Full exploded assembly view with component placement"
 
 schematics:
-  - file: "/assets/schematics/spark/wiring-diagram.svg"
-    description: "Full component wiring diagram — CAN bus, power rails, and signal lines"
-  - file: "/assets/schematics/spark/pcb-layout.svg"
-    description: "Custom PCB 3D layout — ESP32, CAN transceiver, and 10-DOF IMU consolidated"
-  - file: "/assets/schematics/spark/control-architecture.svg"
-    description: "LQR + AROC cascaded control architecture block diagram"
+  - file: "/assets/images/projects/spark/wiring-diagram.jpg"
+    description: "Full component wiring diagram"
+  - file: "/assets/images/projects/spark/pcb-3d.jpg"
+    description: "Custom PCB 3D layout"
+  - file: "/assets/images/projects/spark/lqr-disturbance-inputs.jpg"
+    description: "LQR cascaded control architecture"
 
 code_files:
   - name: "Mass-Bounded Inverse Kinematics"
