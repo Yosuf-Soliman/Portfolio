@@ -434,7 +434,7 @@ components:
 
 gallery:
   - type: "image"
-    file: "/assets/images/projects/spark/featured.jpg"
+    file: "/assets/images/projects/spark/featured.jpeg"
     description: "SPARK V1 physical prototype — full assembly"
   - type: "image"
     file: "/assets/images/projects/spark/v2-cad.jpg"
