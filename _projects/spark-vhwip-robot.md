@@ -4,7 +4,7 @@ title: "SPARK: Variable-Height Wheeled Bipedal Robot"
 description: "A 5-DOF variable-height wheeled bipedal robot (VH-WIP) that bridges the agility-endurance gap between legged and wheeled UGVs, designed via a strict Model-Based Design approach using MATLAB/Simscape, custom PCB, FEA, and quasi-direct-drive actuation."
 date: 2026-05-01
 categories: [Robotics, Control Systems, Mechatronics, FEA, Embedded Systems, 3D Printing]
-featured_image: "/assets/images/projects/spark/featured.jpg"
+featured_image: "/assets/images/projects/spark/featured.jpeg"
 github_url: "https://github.com/MESGRO/spark-vhwip"
 demo_url: "#"
 interactive_plot: false
