@@ -4,7 +4,7 @@ title: "AeroTrack: Autonomous FPV Drone Tracking System"
 description: "A fully autonomous GPS-denied FPV drone that tracks a moving target through 11 predefined flight maneuvers using YOLOv11n, a 6-state Kalman filter, a 4-state FSM, and a ROS 2 / MAVROS / MAVLink GCS pipeline. Developed for TEKNOFEST 2026."
 date: 2026-06-07
 categories: [Robotics, Autonomous Systems, ROS 2, Computer Vision, MAVLink, Drones]
-featured_image: "/assets/images/projects/aerotrack/featured.jpeg"
+featured_image: "/assets/images/projects/aerotrack/featured.png"
 github_url: "https://github.com/Yosuf-Soliman/Portfolio"
 demo_url: "#"
 interactive_plot: false
@@ -777,7 +777,7 @@ components:
 
 gallery:
   - type: "image"
-    file: "/assets/images/projects/aerotrack/featured.jpeg"
+    file: "/assets/images/projects/aerotrack/featured.png"
     description: "AeroTrack drone — 7-inch CFRP build ready for flight"
   - type: "image"
     file: "/assets/images/projects/aerotrack/system-architecture-block.jpeg"
